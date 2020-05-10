@@ -15,5 +15,6 @@ we saw that the graph show thata the people who are graduate have the higher cha
 There is not much difference between the male and female both are getting almost the same amount of loan.
 
 • Are their credit history is good?
+
 Credit Histoy of male is very high.
 
